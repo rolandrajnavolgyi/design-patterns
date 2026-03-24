@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Builder/" />
+  <Folder Name="/SOLID/">
+    <Project Path="OpenClosed/OpenClosed.csproj" Id="9f4bf984-5a8e-4654-9caf-3c8293ec0d08" />
+    <Project Path="SingleResponsibility/SingleResponsibility.csproj" />
+  </Folder>
+</Solution>
