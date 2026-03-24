@@ -1,10 +1,12 @@
 <Solution>
-  <Folder Name="/Builder/" />
+  <Folder Name="/Builder/">
+    <Project Path="Builder/FluentBuilder/FluentBuilder.csproj" Id="813709ef-9cb1-4ac6-be7c-cb462a9c2e7b" />
+  </Folder>
   <Folder Name="/SOLID/">
-    <Project Path="DependencyInversion/DependencyInversion.csproj" Id="058571e3-9f88-48bb-9ce2-29321daa33a4" />
-    <Project Path="InterfaceSegregation/InterfaceSegregation.csproj" Id="c0989b8c-5df3-440b-9c0c-a72e4ddecd13" />
-    <Project Path="LiskovSubstitution/LiskovSubstitution.csproj" Id="f350e4ef-525f-4041-aa92-f4116d6cbbd5" />
-    <Project Path="OpenClosed/OpenClosed.csproj" Id="9f4bf984-5a8e-4654-9caf-3c8293ec0d08" />
-    <Project Path="SingleResponsibility/SingleResponsibility.csproj" />
+    <Project Path="SOLID/DependencyInversion/DependencyInversion.csproj" Id="058571e3-9f88-48bb-9ce2-29321daa33a4" />
+    <Project Path="SOLID/InterfaceSegregation/InterfaceSegregation.csproj" Id="c0989b8c-5df3-440b-9c0c-a72e4ddecd13" />
+    <Project Path="SOLID/LiskovSubstitution/LiskovSubstitution.csproj" Id="f350e4ef-525f-4041-aa92-f4116d6cbbd5" />
+    <Project Path="SOLID/OpenClosed/OpenClosed.csproj" Id="9f4bf984-5a8e-4654-9caf-3c8293ec0d08" />
+    <Project Path="SOLID/SingleResponsibility/SingleResponsibility.csproj" />
   </Folder>
 </Solution>
